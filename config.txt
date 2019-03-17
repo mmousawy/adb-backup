@@ -1,9 +1,2 @@
-; Add your source -> destination folders to this file
-; Lines starting with a semicolon are comments
-
-; Backup the default camera folder
-"/sdcard/DCIM/Camera" "F:\backup"
-
-; Backup messenger images
-"/sdcard/WhatsApp/Media/WhatsApp Images" "F:\backup"
-"/sdcard/Telegram/Telegram Images" "F:\backup"
+; Add your "source path" "destination path" lines to this file
+; Lines starting with a semicolon are ignored
