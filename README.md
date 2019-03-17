@@ -1,7 +1,7 @@
 adb-backup
 ========
 
-adb-phone-update is a tool to back up files from an Android device to a PC using
+adb-backup is a tool to back up files from an Android device to a PC using
 the ADB (Android Debug Bridge).
 
 Setup
