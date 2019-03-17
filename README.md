@@ -1,4 +1,4 @@
-adb-ease-backup
+adb-backup
 ========
 
 adb-phone-update is a tool to back up files from an Android device to a PC using
